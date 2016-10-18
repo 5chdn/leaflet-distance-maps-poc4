@@ -1,8 +1,8 @@
-Accessibility Maps WebGL Vis
-============================
+Reachability Maps WebGL Vis
+===========================
 
-GPU-based (JS/WebGL) rendering of accessibility maps. Leaflet WebGL 
-accessibility maps proof of concept #4, for educational purposes only.
+GPU-based (JS/WebGL) rendering of reachability maps. Leaflet WebGL 
+reachability maps proof of concept #4, for educational purposes only.
 
 
 Proof of Concept 4
